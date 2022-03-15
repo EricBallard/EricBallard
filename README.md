@@ -11,8 +11,8 @@ currently seeking employment!**
 <br></br>
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=portfolio&theme=buefy )](https://github.com/EricBallard/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=fishjs&theme=buefy )](https://github.com/EricBallard/Fishjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=humanmouse&theme=buefy )](https://github.com/EricBallard/HumanMouse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=sslchat&theme=buefy )](https://github.com/EricBallard/SSLChat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=memorymanipulator&theme=buefy )](https://github.com/EricBallard/MemoryManipulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=portfolio&theme=swift )](https://github.com/EricBallard/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=fishjs&theme=swift )](https://github.com/EricBallard/Fishjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=humanmouse&theme=swift )](https://github.com/EricBallard/HumanMouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=sslchat&theme=swift )](https://github.com/EricBallard/SSLChat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=memorymanipulator&theme=swift )](https://github.com/EricBallard/MemoryManipulator)
