@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-**I'm a passionate self-taught developer, 
+**I'm a passionate, self-taught developer, 
 currently seeking employment!**
   
 - :green_heart: I love modular and well-documented code
