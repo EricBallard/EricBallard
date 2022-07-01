@@ -1,7 +1,7 @@
 ### Hey there :wave:
 
 **I'm a passionate, self-taught developer, 
-currently seeking employment!**
+currently freelancing!**
   
 - :green_heart: I love modular and well-documented code
 - :blue_book: I enjoy learning new languages and APIs
