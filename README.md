@@ -17,3 +17,9 @@ currently freelancing!**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=sslchat&theme=swift )](https://github.com/EricBallard/SSLChat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=ddosim&theme=swift )](https://github.com/EricBallard/DDoSim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=memorymanipulator&theme=swift )](https://github.com/EricBallard/MemoryManipulator)
+
+<br></br>
+
+`“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard."`
+<br>
+***- John F. Kennedy*** *(1962)*
