@@ -2,7 +2,7 @@
 <br>
 ***- John F. Kennedy*** *(1962)*
 
-<br><br>
+<br>
 
 ### Hey there :wave:
 
@@ -14,7 +14,7 @@ currently freelancing!**
 - :couple: I look forward to working with a team
 - :mailbox_with_mail: I respond to emails within two days
 
-<br></br>
+<br>
 
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=cryptotrader&theme=swift )](https://github.com/EricBallard/CryptoTrader)
