@@ -17,9 +17,9 @@ currently freelancing!**
 <br>
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=cryptotrader&theme=swift )](https://github.com/EricBallard/CryptoTrader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=fishjs&theme=swift )](https://github.com/EricBallard/Fishjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=humanmouse&theme=swift )](https://github.com/EricBallard/HumanMouse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=sslchat&theme=swift )](https://github.com/EricBallard/SSLChat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=ddosim&theme=swift )](https://github.com/EricBallard/DDoSim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=memorymanipulator&theme=swift )](https://github.com/EricBallard/MemoryManipulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=cryptotrader&theme=react )](https://github.com/EricBallard/CryptoTrader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=fishjs&theme=react )](https://github.com/EricBallard/Fishjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=humanmouse&theme=react )](https://github.com/EricBallard/HumanMouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=sslchat&theme=react )](https://github.com/EricBallard/SSLChat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=ddosim&theme=react )](https://github.com/EricBallard/DDoSim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericballard&repo=memorymanipulator&theme=react )](https://github.com/EricBallard/MemoryManipulator)
